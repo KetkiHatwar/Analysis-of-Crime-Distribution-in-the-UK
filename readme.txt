@@ -19,7 +19,7 @@ Setup
 
 Data
 1)	The data is directly taken from the site https://data.police.uk/. 
-2)	Data cleaning has been performed and all the CleanedData is saved in Cleaned_Dataset folder
+2)	Perform data cleaning using the code written in data_cleaning_code.ipynb file
 
 Running the project:
 Run all the files in CODE.ipynb. The following folders will be created along with visualizations and models:
