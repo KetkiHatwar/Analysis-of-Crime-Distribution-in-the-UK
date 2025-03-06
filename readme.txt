@@ -14,8 +14,7 @@ Install the required libraries
 9. sklearn: For machine learning metrics.
 
 Setup
-1) Extract the zip file
-2) Open CODE.ipynb file from the extracted folder.
+1) Open CODE.ipynb file from the extracted folder.
 
 
 Data
